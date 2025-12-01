@@ -158,22 +158,5 @@ meditation-site/
 
 ---
 
-## 📝 라이선스
-
-이 프로젝트는 자유롭게 사용, 수정, 배포할 수 있습니다.
-
----
-
-## 🤝 기여하기
-
-버그 리포트나 기능 제안은 언제든 환영합니다! 이슈를 등록하거나 Pull Request를 보내주세요.
-
----
-
-<div align="center">
-
-**⭐ 이 프로젝트가 도움이 되었다면 Star를 눌러주세요! ⭐**
-
-Made with ❤️ for peaceful minds
 
 </div>
